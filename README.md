@@ -5,6 +5,9 @@
 
 This repository provides a code snippet designed to enhance the memory reach functionality for Minecraft clients, specifically targeting versions 1.7 to 1.8. The code is intended for educational purposes and to facilitate exploration of Minecraft's mechanics.
 
+## Important
+- **If you just loaded the game**: Minecraft reach is loaded in memory once you hit an entity. To make this program work you must hit an entity and wait a while.
+
 ## Features
 
 - **Enhanced Memory Reach**: Gain insights into how memory reach can be modified within Minecraft clients.
