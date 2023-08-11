@@ -3,7 +3,7 @@
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.7%20to%201.8-green)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This repository contains a code snippet to enhance the memory reach functionality in Minecraft clients, specifically for versions 1.7 to 1.8. By implementing this code, you can directly improve the reach experience for players using your Minecraft server.
+This repository contains a code snippet to enhance the memory reach functionality in Minecraft clients, specifically for versions 1.7 to 1.8. By implementing this code, you can directly improve the reach experience for players using your Minecraft client.
 
 ## Features
 
