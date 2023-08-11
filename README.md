@@ -27,7 +27,7 @@ This project is meant solely for educational and exploratory purposes. The code 
 
 If you find this educational resource intriguing and would like to support its development:
 
-[![Support me](https://streamelements.com/disabler/tip)](https://streamelements.com/disabler/tip)
+[![Support Me](https://img.shields.io/badge/Support%20Me-Donate-green.svg)](https://streamelements.com/disabler/tip)
 
 Your support is greatly appreciated and encourages the creation of more educational content.
 
