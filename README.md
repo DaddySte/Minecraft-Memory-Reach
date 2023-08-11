@@ -11,7 +11,7 @@ This repository contains a code snippet to enhance the memory reach functionalit
 
 ## Getting Started
 
-Follow these steps to integrate the memory reach enhancement into your Minecraft server:
+Follow these steps to integrate the memory reach enhancement into your Minecraft client:
 
 1. Clone or download this repository.
 2. Locate the appropriate section of your code where the reach functionality is handled.
