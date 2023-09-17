@@ -26,14 +26,6 @@ Follow these steps to experiment with the memory reach enhancement for Minecraft
 
 This project is meant solely for educational and exploratory purposes. The code is not intended for use in a production environment, official servers, or any application that could compromise the fairness and integrity of the Minecraft gameplay experience. Use this code responsibly and respect the Minecraft community.
 
-## Support
-
-If you find this educational resource intriguing and would like to support its development:
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-Donate-green.svg)](https://streamelements.com/disabler/tip)
-
-Your support is greatly appreciated and encourages the creation of more educational content.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
